@@ -7,5 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="D:/sqldeveloper-20.2.0.175.1842-x64/sqldeveloper/jdbc/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="D:/Microservices/lib/HikariCP-4.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Microservices/lib/slf4j-api-1.7.30.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
