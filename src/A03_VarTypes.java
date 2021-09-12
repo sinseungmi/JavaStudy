@@ -37,7 +37,7 @@ public class A03_VarTypes {
 		 * 
 		 * - char (2byte, unsigned)
 		 * 
-		 * 	2byte - 16bit
+		 * 	2byte - 16bit 
 		 * 
 		 * 	2 ^ 16 - 65536가지
 		 * 

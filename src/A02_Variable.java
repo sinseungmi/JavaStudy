@@ -10,7 +10,7 @@ public class A02_Variable {
 		 * -같은 이름의 변수는 다시 선언할 수 없다
 		 * 
 		 * 변수의 선언 (declare, declaration)
-		 * 	타입 변수명;
+		 * 	타입 변수명; 
 		 */
 		
 		//int 타입의 변수 a를 앞으로 쭉 사용하겠다!(선언)
