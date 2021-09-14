@@ -11,9 +11,6 @@
  - 타입은 int, long, String, boolean, float, double, 참조형 .. 등이 있다  
  ex) 타입 변수명;
  
-### 연산자 (Operator)
- - +, -, *, /, %    
-
-
+### 연산자 (Operator) - +, -, *, /, %    
  [Math 클래스]
    - pow
