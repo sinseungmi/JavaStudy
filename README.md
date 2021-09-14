@@ -28,8 +28,8 @@
  - &#62;, <, >=, <=, ==, !=
 
 ### 논리 연산자
-	- boolean 타입 값으로 하는 연산
-	- && : 양 옆의 값이 모두 true일 때만 true(AND)
-	- || : 양 옆의 값 중 하나만 true여도 true(OR)
-	- ! : true면 false, false면 true (NOT)
+ - boolean 타입 값으로 하는 연산
+ - && : 양 옆의 값이 모두 true일 때만 true(AND)
+ - || : 양 옆의 값 중 하나만 true여도 true(OR)
+ - ! : true면 false, false면 true (NOT)
    
