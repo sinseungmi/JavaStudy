@@ -13,5 +13,5 @@
  
 ### 연산자 (Operator) 
  - +, -, *, /, %    
- [Math 클래스]
-    > pow
+ - [Math 클래스]
+   - pow
