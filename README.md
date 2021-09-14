@@ -8,5 +8,5 @@
 
 ### 변수(variable)
  - 데이터를 담을 수 있는 공간
- - 타입은 int, String boolean, float, double ..
+ - 타입은 int, String boolean, float, double .. 등이 있다  
  ex) 타입 변수명;
