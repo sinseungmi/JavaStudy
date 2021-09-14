@@ -1,0 +1,8 @@
+{
+"tel2" : "null",
+"name" : "홍길동",
+"tel" : "010-1234-1234",
+"language" : ['C','JAVA','Javascript','React'],
+"lotto" : ['1','2','3','4','5','6','7'],
+"age" : 123,
+}
